@@ -19,3 +19,8 @@ Dieses Projekt ermöglicht es, Verzeichnisse basierend auf vordefinierten Umgebu
 
    ```bash
    git clone https://github.com/sommerit/folder_creater.git
+
+## DEMO
+
+[![asciinema CLI
+demo](https://asciinema.org/a/p8IXZnQadtsuY8ryqYxR9W2g9.svg)](https://asciinema.org/a/p8IXZnQadtsuY8ryqYxR9W2g9?autoplay=1)
