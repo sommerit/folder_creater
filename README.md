@@ -22,5 +22,4 @@ Dieses Projekt ermöglicht es, Verzeichnisse basierend auf vordefinierten Umgebu
 
 ## DEMO
 
-[![asciinema CLI
-demo](https://asciinema.org/a/p8IXZnQadtsuY8ryqYxR9W2g9.svg)](https://asciinema.org/a/p8IXZnQadtsuY8ryqYxR9W2g9?autoplay=1)
+[![asciicast](https://asciinema.org/a/p8IXZnQadtsuY8ryqYxR9W2g9.svg)](https://asciinema.org/a/p8IXZnQadtsuY8ryqYxR9W2g9)
