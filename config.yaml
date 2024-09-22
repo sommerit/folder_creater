@@ -1,0 +1,29 @@
+environments:
+  - name: RUNTIME
+    requires_zone: true
+    requires_specific_env: true
+    zones:
+      - A
+      - B
+      - C
+  - name: DMZ
+    requires_zone: false
+    requires_specific_env: false
+  - name: AWS
+    requires_zone: false
+    requires_specific_env: false
+  - name: AZURE
+    requires_zone: false
+    requires_specific_env: false
+  - name: SERVICE
+    requires_zone: false
+    requires_specific_env: true
+
+specific_environments:
+  - entw
+  - test
+  - pre_prod
+  - prod
+
+tools:
+  - helm
